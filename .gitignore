@@ -1,0 +1,22 @@
+# VS Code
+*vscode*
+
+# Executables
+*.exe
+*.dll
+*.obj
+*.exp
+*.lib
+
+# intermediate binary files
+*.bin
+
+# Test
+*test*
+
+# Debug
+*.pdb
+*.ilk
+
+# Python
+*env
